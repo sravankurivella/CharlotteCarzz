@@ -1,0 +1,249 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 21, 2015, 11:13:44 AM
+    Author     : Aneesha
+*/
+
+input[type="text"][title]{
+    
+    font-style: italic;
+}
+
+
+div.img {
+    margin: 10px;
+    padding:10px;
+    height: auto;
+    width: auto;
+    float:left;
+    border: none #F0F0F0;
+    display: inline;
+    
+}	
+
+div.img img {
+    display: inline;
+    margin: 5px;
+    border: 0px none #F0F0F0;
+}
+
+.img a:hover img {
+    border: 1px solid #0000ff;
+}
+
+div.desc {
+  text-align:center;
+  font-weight: bold;
+  width: 180px;
+  margin: 5px;
+}
+
+div.desc1 { 
+  text-align:left;
+  font-weight: normal;
+  width: 180px;
+  margin: 5px;
+  font-family:Helvetica, Arial, sans-serif;
+  font-size:small;
+    } 
+
+
+#header
+{
+  
+    color:#919191;
+    text-align:right;
+    padding:5px;
+    background-color:darksalmon;
+ div.ga
+  { text-align: right;
+  margin-left: 400px;}
+}
+#drop
+{
+    text-align: center ;
+    
+}
+
+
+#rep
+{
+    display:block;
+    float:left; 
+    line-height:50px;
+    height: 700px;
+    width :100px; 
+    background-color: aliceblue;
+    
+}
+#rep1
+{
+   display:block;
+    float:left; 
+    line-height:50px;
+    height: 2300px;
+    width :100px;
+    background-color: beige;
+}
+
+
+section li a:link, section li a:visited {
+	float:left;
+	width:96%;
+	padding:3px 1%;
+	border-bottom:1px solid #e7e2d7;
+}
+
+
+article {
+      
+        font-size:1.0em;
+        font-family:sans-serif;
+	float:left;
+	width:750px;
+        height:750px;
+        font-style: italic;
+	text-align:center;
+}
+div.text {
+   text-align:center;
+   margin: 10px;
+    font-weight: normal;
+    font-family:Helvetica, Arial, sans-serif;
+    
+}
+
+nav ul{margin:0; padding:0; list-style:none;}
+#mid {
+    background-color:darksalmon;
+    color:white;
+    clear:both;
+    text-align: center;
+    height:40px;
+    vertical-align: middle;
+ 
+padding: 5px;}
+
+
+
+
+ footer {
+        background: bisque;
+	display:block;
+	clear:both !important;
+	
+}
+div.nav ul li{
+	   display:inline-block;
+                  	            
+}
+div.nav ul li a{
+	     padding: 10px;
+             background-color:royalblue;
+             color: white;
+             border-style: groove;
+             margin-left: 460px;
+             width: 40px ;  
+             float:left;
+             font-family:Helvetica, Arial, sans-serif;  
+             font-size: medium;
+             font-weight: bold;
+             text-align: center;
+             }
+
+td,th {
+    padding:10px 50px 10px 10px ;
+    font-family:Helvetica, Arial, sans-serif;
+    text-align:left;
+   }
+
+   table{
+    border-width:5px;
+    border-style:ridge none;
+    border-color:#FFA319       
+   }
+body {
+        
+        font-family:"Myriad Pro", Myriad, Helvetica, Arial, sans-serif;
+	font-size:90%;
+	color:#111111;
+	margin:20px auto;
+	text-align:center;
+	line-height:1.4em;
+	width:960px;
+}
+
+
+h1 {
+	font-family: cursive;
+	font-size:400%;
+	letter-spacing:-0.06em;
+	text-transform:uppercase;
+	font-weight:normal;
+        line-height: 80%;
+        text-align: center;
+}
+
+h2 {
+	font-family:Helvetica, Arial, sans-serif;
+	font-size:1.5em;
+	letter-spacing:-0.06em;
+	text-transform:uppercase;
+	font-weight:normal;
+}
+
+h3{
+	font-family:Helvetica, Arial, sans-serif;
+	font-size:1.0em;
+	letter-spacing:-0.03em;
+        text-align:right;
+	font-weight:normal;
+}
+h3{
+	font-family:Arial;
+	font-size:1.0em;
+        font-style: italic;
+	font-weight:bold;;
+        width: 300px;
+        text-align: center;
+}
+
+h4{
+	font-family:Helvetica, Arial, sans-serif;
+	font-size:1.5em;
+	letter-spacing:-0.03em;
+	font-weight:normal;
+}
+
+p
+{
+    font-family:Helvetica, Arial, sans-serif;
+	font-size:0.8;
+	letter-spacing:-0.03em;
+	font-weight:normal;
+        text-align: left;
+        margin: 10px;
+       
+}
+p.subtotal
+{
+  text-align: center;
+  margin: 0 0 0 200px;
+}
+a {
+	font-family: cursive;
+	font-weight:bold;
+	color: brown;
+	text-decoration:none;
+	font-size:1.2em;
+}
+
+
+a img {
+	border:none;
+}
+
